@@ -1,0 +1,15 @@
+total 56
+drwxrwxr-x 2 maina maina 4096 Mar 13 13:14 .
+drwxrwxr-x 6 maina maina 4096 Mar 13 11:53 ..
+-rwxrw-r-- 1 maina maina   32 Mar 13 11:54 0-hello_world
+-rwxrw-r-- 1 maina maina   28 Mar 13 12:03 1-confused_smiley
+-rwxrw-r-- 1 maina maina   28 Mar 13 12:06 2-hellofile
+-rwxrw-r-- 1 maina maina   39 Mar 13 12:23 3-twofiles
+-rwxrw-r-- 1 maina maina   29 Mar 13 12:31 4-lastlines
+-rwxrw-r-- 1 maina maina   29 Mar 13 12:37 5-firstlines
+-rwxrw-r-- 1 maina maina   41 Mar 13 12:48 6-third_line
+-rwxrw-r-- 1 maina maina   80 Mar 13 13:06 7-file
+-rwxrw-r-- 1 maina maina   36 Mar 13 13:13 8-cwd_state
+-rw-rw-r-- 1 maina maina   12 Mar 13 13:07 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 maina maina 4611 Mar 13 12:49 iacta
+-rw-rw-r-- 1 maina maina    0 Mar 13 13:14 ls_cwd_content
